@@ -25,5 +25,5 @@ v denotes the orthogonal variance around the relation, representing the intrinsi
 denote the fit uncertainty derived from random samplings of the MCMC, while the lighter shaded regions denote
 the intrinsic scatter, which characterizes unmodeled astrophysical processes that cause deviation from the relation.
 
-<img src="prior.png" width="600"/>
-<img src="fit.png" width="600"/>
+<img src="prior.png" width="500"/>
+<img src="fit.png" width="500"/>
