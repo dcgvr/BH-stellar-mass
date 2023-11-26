@@ -1,4 +1,4 @@
-# BH-stellar-mass
+# High-Redshift Supermassive Black Hole - Stellar Mass Relation with JWST Galaxy Observations
 
 Repository owner: Bao "Tintin" Nguyen, second author of ["JWST CEERS and JADES Active Galaxies at z = 4–7 Violate the Local Black Hole - Stellar Mass Relation at >3σ"](https://iopscience.iop.org/article/10.3847/2041-8213/ad0158), led by [Fabio Pacucci](https://www.fabiopacucci.com) (Center for Astrophysics | Harvard & Smithsonian).
 
@@ -25,5 +25,5 @@ v denotes the orthogonal variance around the relation, representing the intrinsi
 denote the fit uncertainty derived from random samplings of the MCMC, while the lighter shaded regions denote
 the intrinsic scatter, which characterizes unmodeled astrophysical processes that cause deviation from the relation.
 
-<img src="prior.png" width="700"/>
-<img src="fit.png" width="700"/>
+<img src="prior.png" width="600"/>
+<img src="fit.png" width="600"/>
